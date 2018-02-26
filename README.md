@@ -1,2 +1,2 @@
 # Blender
-Collection of blender stuff I'm did
+Collection of blender stuff I did
